@@ -1,0 +1,20 @@
+```css
+/* Fullstack.css */
+
+/* This file will contain specific styles for the Full-Stack Development page */
+
+/* You can add styles specific to this page. For example, if you want to change the color of h2 in this page only, you can do it like this: */
+
+main h2 {
+    color: #333;
+}
+
+/* If you want to add some style to the paragraphs in the main content area, you can do it like this: */
+
+main p {
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+/* Remember, the styles you define here will only apply to the Full-Stack Development page, as this CSS file is only linked in fullstack.html */
+```

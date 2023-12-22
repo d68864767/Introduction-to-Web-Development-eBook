@@ -1,0 +1,35 @@
+```css
+/* Frontend.css */
+
+/* Styling for the Front-End Development page */
+
+/* Header styles */
+header h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+/* Navigation styles */
+nav ul li a[href="frontend.html"] {
+    color: #4CAF50; /* Highlight the Front-End Development link to indicate the current page */
+}
+
+/* Main content styles */
+main h2 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+main section h3 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+main section p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.6;
+}
+```

@@ -1,0 +1,29 @@
+```css
+/* backend.css */
+
+/* You can add specific styles for the backend page here. 
+   For example, you might want to highlight the current page in the navigation. */
+
+nav ul li a[href="backend.html"] {
+    background-color: #555;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* If you want to add some specific styles for the main content of the backend page, you can do it here. 
+   For example, you might want to change the color of the headings or the paragraphs. */
+
+main h2 {
+    color: #333;
+}
+
+main section h3 {
+    color: #666;
+}
+
+main section p {
+    color: #999;
+}
+
+/* Remember, these are just examples. Feel free to modify them according to your needs. */
+```
